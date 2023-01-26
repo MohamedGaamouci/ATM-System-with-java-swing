@@ -1,0 +1,9 @@
+create data base and name it atm_db 
+after that import the table of users that is in the project 
+
+make sure that the sql port is 3306
+
+the card_num and pin is stored in the users tabel 
+
+ 		that example card_num : 1234567890123456
+		                  pin : 1111
